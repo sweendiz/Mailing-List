@@ -1,0 +1,39 @@
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\ApplicationInsights.config
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\MailingList.UnitTests.dll
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\MailingList.UnitTests.pdb
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\Mailling List Project.dll
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\System.Web.Optimization.dll
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\System.Web.Mvc.dll
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\System.Web.Http.dll
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\System.Web.Razor.dll
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\Mailling List Project.pdb
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\Mailling List Project.dll.config
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\System.Web.Optimization.xml
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\System.Web.Http.xml
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\System.Web.WebPages.xml
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\System.Web.Razor.xml
+C:\Projects\Mailling List\MailingList.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Projects\Mailling List\MailingList.UnitTests\obj\Debug\MailingList.UnitTests.csprojAssemblyReference.cache
+C:\Projects\Mailling List\MailingList.UnitTests\obj\Debug\MailingList.UnitTests.csproj.CoreCompileInputs.cache
+C:\Projects\Mailling List\MailingList.UnitTests\obj\Debug\MailingList.UnitTests.csproj.CopyComplete
+C:\Projects\Mailling List\MailingList.UnitTests\obj\Debug\MailingList.UnitTests.dll
+C:\Projects\Mailling List\MailingList.UnitTests\obj\Debug\MailingList.UnitTests.pdb
